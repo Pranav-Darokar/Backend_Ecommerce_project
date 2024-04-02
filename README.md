@@ -1,0 +1,4 @@
+n our eCommerce Backend Project. We successfully implemented user sign-in and sign-up functionality and category management using Node.js, Express, MongoDB, and JSON Web Tokens (JWT). Additionally, we utilized the Postman tool for testing and creating REST APIs.
+The integration of these tools allowed us to create a robust backend structure for our eCommerce application. JSON Web Tokens were employed for secure authentication, while MongoDB served as our database management system. Express facilitated the creation of RESTful APIs, enabling seamless communication of the backend components of the application.
+Postman played a crucial role in streamlining the testing process, allowing us to efficiently validate our APIs' functionality and troubleshoot any issues that arise.
+With each new functionality added to our project, I gained a deeper understanding of backend development concepts and their practical applications.
